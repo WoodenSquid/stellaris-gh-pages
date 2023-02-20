@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stellaris-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/stellaris-gh-pages/static/js/main.216273eb.js",
+    "static/js/787.4d244717.chunk.js": "/stellaris-gh-pages/static/js/787.4d244717.chunk.js",
+    "static/media/logo.svg": "/stellaris-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stellaris-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/stellaris-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.216273eb.js.map": "/stellaris-gh-pages/static/js/main.216273eb.js.map",
+    "787.4d244717.chunk.js.map": "/stellaris-gh-pages/static/js/787.4d244717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.216273eb.js"
+  ]
+}
